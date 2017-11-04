@@ -9,7 +9,7 @@ Created on Dec 3, 2013
 
 import sys
 import _vector_cache
-import sql_driver
+import vector_cache.sql_driver
 import mongo_driver
 
 class _VectorCache(object):
